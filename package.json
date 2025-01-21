@@ -1,0 +1,15 @@
+{
+  "name": "react-tiles01",
+  "description": "Prompt generated with https://huggingface.co/spaces/osanseviero/GemCoder\n\nPrompt: please make me a typescript react app that has clickable tiles. Allow me to configure how many tiles there are on each row. The tiles should be a responsive layout so they reposition themselves depending on the device and viewable area. Each tile contains a title on top. To the right of the title is a clickable like button shaped like a heart, Below the title is an image. Below the image is a caption. When a tile is clicked, the user is taken to a unique page that contains the title, the image, and a detailed caption area.\n",
+  "version": "0.0.10",
+  "dependencies": {},
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
